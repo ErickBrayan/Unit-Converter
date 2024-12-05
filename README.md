@@ -40,7 +40,7 @@ A simple web-based application built with **Java**, **JSP (JavaServer Pages)**, 
 ## Installation and Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/unit-converter-web.git
+   git clone https://github.com/ErickBrayan/Unit-Converter.git
    cd unit-converter-web
 2. Open the project in your preferred Java IDE.
 3. Add an Apache Tomcat runtime to your IDE.
