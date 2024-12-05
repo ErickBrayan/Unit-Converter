@@ -41,7 +41,7 @@ A simple web-based application built with **Java**, **JSP (JavaServer Pages)**, 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/ErickBrayan/Unit-Converter.git
-   cd unit-converter-web
+   cd Unit-Converter
 2. Open the project in your preferred Java IDE.
 3. Add an Apache Tomcat runtime to your IDE.
 4. Deploy the project to the Tomcat server.
